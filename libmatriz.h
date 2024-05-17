@@ -3,6 +3,5 @@
 
 void keyboardInit();
 char keyboardRead();
-char port();
 
 #endif
